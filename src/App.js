@@ -8,7 +8,7 @@ function App() {
   return (
     // Passing props from And displaying the parent components 🤳🤳
   <>
-<Header title="Mjadi'sCafe"/>
+<Header title="Mjadi'sCafe" button={true}/>
 <Content/>
 <Footer/>
   </>
